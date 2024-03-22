@@ -1,0 +1,31 @@
+/* Custom Styles for Dr. House Patient Form with Bootstrap */
+
+/* Background Color */
+body {
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+/* Container */
+.container {
+    padding: 20px;
+}
+
+/* Form Group */
+.form-group {
+    margin-bottom: 20px; /* Add space between form groups */
+}
+
+/* Button */
+.btn-primary {
+    /* Bootstrap button class */
+}
+
+.btn-primary:hover {
+    /* Bootstrap button hover class */
+}
+
+/* Typography */
+h1 {
+    color: #343a40; /* Dark text color */
+    margin-bottom: 30px; /* Add space below heading */
+}
